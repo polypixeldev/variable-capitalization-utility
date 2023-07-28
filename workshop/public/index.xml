@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tauri Workshop</title>
+    <link>http://localhost:3000/</link>
+    <description>Recent content on Tauri Workshop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jul 2023 08:48:33 -0400</lastBuildDate><atom:link href="http://localhost:3000/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tauri Workshop</title>
+      <link>http://localhost:3000/posts/workshop/</link>
+      <pubDate>Fri, 28 Jul 2023 08:48:33 -0400</pubDate>
+      
+      <guid>http://localhost:3000/posts/workshop/</guid>
+      <description>Making a cross-platform desktop app with Tauri In this workshop, you&amp;rsquo;ll make a lightweight and cross-platform desktop app using Tauri!
+Throughout the workshop I&amp;rsquo;ll use the example of a utility for variable capitalization - that is, a tool that allows you to input some words and it&amp;rsquo;ll capitalize them in the scheme of your choice, such as camelCase, snake_cake, etc. Here&amp;rsquo;s a screenshot of the finished app, which is available at https://github.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,3 +1,9 @@
+---
+title: "Tauri Workshop"
+date: 2023-07-28T08:48:33-04:00
+draft: false
+---
+
 # Making a cross-platform desktop app with Tauri
 
 In this workshop, you'll make a lightweight and cross-platform desktop
@@ -10,7 +16,7 @@ snake_cake, etc. Here's a screenshot of the finished app, which is
 available at
 https://github.com/polypixeldev/variable-capitalization-utility:
 
-![](/workshop/images/finished.png)
+![](/images/finished.png)
 
 Note that this is just an example - feel free to try making something
 new or expand upon it!
@@ -33,7 +39,7 @@ familiar) and follow these steps:
 Go to a directory (folder) of your choice, using the `cd` command (your
 terminal might look a little
 different):
-![](/workshop/images/cd.png)
+![](/images/cd.png)
 
 Now, run the following command:
 
@@ -48,7 +54,7 @@ for your app, then select to use "TypeScript / JavaScript - (pnpm, yarn,
 npm)" for your frontend, "npm" as your package manager, React for your
 UI template, and JavaScript for your UI
 flavor
-![](/workshop/images/commands.png)
+![](/images/commands.png)
 
 Tauri has now created a directory for your app with all of the files
 you'll need to get started! Run the commands that were just given to
@@ -67,7 +73,7 @@ If you see a new window open with text that says "Welcome to Tauri!",
 congratulations! You've now set up your development environment and
 launched a Tauri app.
 
-![](/workshop/images/tauri-default.png)
+![](/images/tauri-default.png)
 
 Type in your name in the input box and then press enter. It doesn't seem
 like it, but a lot happened from when you pressed the "Greet" button to

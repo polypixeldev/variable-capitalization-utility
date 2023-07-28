@@ -1,0 +1,4 @@
+[submodule "workshop/themes/pickles"]
+	path = workshop/themes/pickles
+	url = https://github.com/mismith0227/hugo_theme_pickles
+	branch = release
