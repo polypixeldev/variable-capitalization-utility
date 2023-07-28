@@ -1,7 +1,7 @@
-# Tauri + React
+# Variable Capitialization Utility
 
-This template should help get you started developing with Tauri and React in Vite.
+This is a small app that helps you choose the case you want when naming variables!
 
-## Recommended IDE Setup
+This is a finished example for a workshop on making desktop apps with Tauri. The workshop files and directions are in the workshop directory.
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+![](/workshop/images/finished.png)
